@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(name='krisinformation',
-version='0.1.2',
+version='0.1.3',
 description='API facade for Krisinformation',
 url='https://github.com/obennet/krisinformation',
 author='Oscar Bennet',
